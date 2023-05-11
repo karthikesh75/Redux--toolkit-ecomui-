@@ -1,0 +1,7 @@
+.top_images img{
+    height: 400px;
+}
+.carousel-control-prev,.carousel-control-next {
+    background-color: transparent;
+    border: none;
+}

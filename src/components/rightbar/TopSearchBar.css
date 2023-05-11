@@ -1,0 +1,62 @@
+/* .top-searchbar img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+}
+.top-searchbar input {
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-left: 70%;
+    padding-left: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.top-searchbar {
+    margin-bottom: 30px;
+    justify-content: left;
+    display: flex;
+    margin-top: 10px
+    
+}
+.top-searchbar button {
+    border-radius: 10px;
+    margin: 10px 15px;
+}
+.profile-img img {
+    
+    width: 80%;
+    height: 71%;
+    margin-top: 3px;
+}
+.profile-img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+    /* margin: 51px 139px -17px 6px; */
+
+/* .top-right-info{
+    display: flex;
+    gap: 30px;
+    margin-left: 80%;
+}  */
+.add_to_cart_btn{
+    margin: 20px;
+    margin-left: 50%
+}
+.add_to_cart_btn button {
+    color: blue;
+
+}
+.card{
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+}
+.col-xl-2{
+    margin-top: 70px
+}
+.add_to_cart_btn1{
+    border: none;
+    background: transparent
+}

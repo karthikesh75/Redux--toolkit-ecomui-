@@ -1,0 +1,25 @@
+.topcard{
+    width: 40%;
+    height: 50%;
+    display: flex;
+    margin-right: 60%;
+}
+.topcard img {
+    width: 100%;
+    height: 20%;
+    border-radius: 40px;
+    opacity: 0.5;
+    position: relative;
+}
+.topcard-content{
+    position: absolute;
+    left: 350px;
+    text-align: left;
+}
+.topcard-content button {
+    background-color: rgb(36, 155, 3);
+    border-radius: 5px;
+    color: white;
+    border: 2px solid black;
+    
+}
